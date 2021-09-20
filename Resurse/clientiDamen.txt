@@ -1,0 +1,17 @@
+Ministerul Apararii din India,India,2
+Ministerul Apararii din Romania,Romania,1
+OMV Petrom,Romania,4
+Rompetrol,Romania,4
+Ministerul Apararii din Grecia,Grecia,2
+Ministerul Apararii din Egipt,Egipt,8
+Ministerul Apararii din Bulgaria,Bulgaria,2
+LuKoil,Rusia,10	
+Guvernul australian,Australia,1
+Guvernul finlandez,Finlanda,2
+Guvernul canadian,Canada,6
+BP,Marea Britanie,11
+Rosneft,Rusia,8
+Tatneft,Rusia,8
+BSOG,Romania,9
+Royal Dutch Shell,Olanda,18
+Mol,Ungaria,13

@@ -1,0 +1,16 @@
+Ministerul Apararii din India,2,corvete,14/10/2021,5
+Ministerul Apararii din Romania,4,corvete,12/11/2021,8.7
+OMV Petrom,10,nava de exploatare petroliera,11/10/2021,14.87
+Rompetrol,2,nava de exploatare petroliera,12/04/2021,6
+Ministerul Apararii din Grecia,7,corvete,14/10/2022,10.93
+Ministerul Apararii din Egipt,6,corvete,12/12/2021,11
+Ministerul Apararii din Bulgaria,2,corvete,15/09/2021,12
+LuKoil,5,nava de exploatare petroliera,12/07/2021,	
+Guvernul australian,1,spargator de gheata,12/05/2021,20.6
+Guvernul finlandez,1,spargator de gheata,14/10/2021,15.52
+Guvernul canadian,2,spargator de gheata,12/08/2021,16
+BP,3,nava de exploatare petroliera,15/09/2021,17
+Rosneft,2,nava de exploatare petroliera,16/09/2021,14.8
+Tatneft,2,nava de exploatare petroliera,12/06/2021,19.188
+BSOG,5,nava de exploatare petroliera,12/12/2021,21.022
+Royal Dutch Shell,10,nava de exploatare petroliera,12/01/2022,22.856

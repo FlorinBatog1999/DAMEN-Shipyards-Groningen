@@ -1,0 +1,17 @@
+Ministerul Apararii din India,12
+Ministerul Apararii din Romania,5
+OMV Petrom,0.8
+Rompetrol,0
+Ministerul Apararii din Grecia,2.6
+Ministerul Apararii din Egipt,8.1
+Ministerul Apararii din Bulgaria,2
+LuKoil,10	
+Guvernul australian,0
+Guvernul finlandez,0
+Guvernul canadian,0
+BP,13
+Rosneft,5.6
+Tatneft,8
+BSOG,0
+Royal Dutch Shell,0
+Mol,7.8

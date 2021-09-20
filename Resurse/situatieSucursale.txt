@@ -1,0 +1,33 @@
+Amels / Damen Yachting,Olanda,1
+Damen Anchor and Chain Factory (AKF),Olanda,0.9
+Damen Green Solutions,Olanda,0.8
+Damen Dredging Equipment,Olanda,0.7
+Damen Marine Components,Olanda,1.2
+Damen Marine Services,Olanda,1.7
+Damen Schelde Marine Services,Olanda,0.67
+Damen Schelde Naval Shipbuilding,Olanda,0.89
+Damen Shiprepair Amsterdam,Olanda,0.43
+Damen Shiprepair Harlingen,Olanda,0.76
+Damen Verolme Rotterdam,Olanda,0.96
+Damen Shiprepair Rotterdam,Olanda,0.76
+Damen Shiprepair Vlissingen,Olanda,1.76
+Damen Shipyards Bergum,Olanda,0.99
+Damen Shipyards Den Helder,Olanda,1.21
+Damen Shipyards Gorinchem,Olanda,0.9
+Damen Shipyards Hardinxveld,Olanda,0.88
+Concordia Damen Shipbuilding,Olanda,0.56
+Damen Trading,Olanda,0.78
+Damen Maaskant Shipyards Stellendam,Olanda,1
+Damen Shiprepair Oranjewerf,Olanda,1
+Damen Engineering Gdansk,Polonia,1
+Damen Marine Components Gdańsk,Polonia,1.7
+Damen Shipyards Gdynia,Polonia,2
+Damen Shipyards Kozle,Polonia,1.8
+Damen Shipyards Galati,Romania,2.8
+Damen Shipyards Mangalia,Romania,1.8
+Marine Engineering Galati,Romania,0.95
+Damen Shipyards Stavanger,Norvegia,1
+Damen Oskarshamnsvarvet Sweden,Suedia,1.76
+Damen Shiprepair Brest,Franta,2.6
+Damen Shiprepair Dunkerque,Franta,1.6
+Marine Design Engineering Mykolayiv,Ucraina,0.67
